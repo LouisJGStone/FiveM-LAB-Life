@@ -39,3 +39,5 @@ luac.out
 *.x86_64
 *.hex
 
+\[PRE-LOAD\]/apolo_loadingscreen/html/assets/bgvideo.mp4
+\[PRE-LOAD\]/apolo_loadingscreen/html/assets/music.mp3

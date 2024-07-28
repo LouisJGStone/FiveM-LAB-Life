@@ -1,0 +1,1 @@
+Go check https://docs.s1nscripts.com to know more about how to use the script and how to install it.
